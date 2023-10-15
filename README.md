@@ -34,4 +34,8 @@
 </body>
 </html>
 
-Screenshot ![shoppingcartgif](shoppingcart.gif)
+
+
+https://github.com/sedatcalis/shopping-card/assets/140658531/b5c59b0f-3c8e-4bf4-9678-d68214832f66
+
+
